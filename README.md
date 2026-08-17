@@ -84,11 +84,3 @@ All credentials below are publicly verifiable.
 | **[WhereIsIt](https://github.com/santiagoreyb/WhereIsIt)** | Android app for real-time tracking with Google Maps | Kotlin · Firebase |
 | **[Neural Networks — Wine](https://github.com/santiagoreyb/Redes_Neuronales)** | Quality-prediction model on the wine dataset | Python · TensorFlow · Pandas |
 | **[Portfolio](https://github.com/santiagoreyb/Portfolio_Santiago_Rey)** | This site — bilingual, dark mode, deployed on Vercel | React · Vite · Tailwind |
-
----
-
-<div align="center">
-
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagoreyb&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)
-
-</div>
