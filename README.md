@@ -20,7 +20,6 @@ I like problems where a slow manual process turns into something that just runs 
 
 - 🔭 Currently building **[SURE Agent](https://github.com/SURE-Agent/Sure)** — an AI/RAG decision-support agent on Azure OpenAI
 - 🌱 Deepening **cloud architecture** — certified across Azure, AWS and Google Cloud
-- 💬 Ask me about **EDI integrations, .NET, or shipping RAG systems to production**
 - 📫 Reach me through my **[portfolio](https://santiagoreyb.vercel.app/en)** or **[LinkedIn](https://www.linkedin.com/in/santiagoreyb/)**
 - 🌍 Spanish (native) · English (B2)
 
