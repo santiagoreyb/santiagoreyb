@@ -16,7 +16,7 @@
 
 Systems Engineer working on **enterprise integrations and process automation**. At ECU Worldwide I build and maintain customs integrations across LATAM and the US (XML, EDI, flat files over SFTP) with **.NET, Angular and Python**, and deploy them on **Azure** with CI/CD.
 
-I like problems where a slow manual process turns into something that just runs — and lately, where an LLM can carry part of the reasoning.
+I like problems where a slow manual process turns into something that just runs, and lately, where an LLM can carry part of the reasoning.
 
 - 🔭 Currently building **[SURE Agent](https://github.com/SURE-Agent/Sure)** - an AI/RAG decision-support agent on Azure OpenAI
 - 🌱 Deepening **cloud architecture** - certified across Azure, AWS and Google Cloud
