@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Developer &amp; AI Automator</b><br>
-  EDI / Full Stack Developer at ECU Worldwide · Systems Engineer
+  Full Stack Developer at ECU Worldwide · Systems Engineer
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@ Systems Engineer working on **enterprise integrations and process automation**. 
 
 I like problems where a slow manual process turns into something that just runs — and lately, where an LLM can carry part of the reasoning.
 
-- 🔭 Currently building **[SURE Agent](https://github.com/SURE-Agent/Sure)** — an AI/RAG decision-support agent on Azure OpenAI
-- 🌱 Deepening **cloud architecture** — certified across Azure, AWS and Google Cloud
+- 🔭 Currently building **[SURE Agent](https://github.com/SURE-Agent/Sure)** - an AI/RAG decision-support agent on Azure OpenAI
+- 🌱 Deepening **cloud architecture** - certified across Azure, AWS and Google Cloud
 - 📫 Reach me through my **[portfolio](https://santiagoreyb.vercel.app/en)** or **[LinkedIn](https://www.linkedin.com/in/santiagoreyb/)**
 - 🌍 Spanish (native) · English (B2)
 
